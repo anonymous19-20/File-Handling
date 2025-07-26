@@ -89,7 +89,3 @@ It's for learning and practicing basic file handling in multiple programming lan
 
 You are free to use, learn, and share this code.
 This project is open-source and made for beginners like you 😊
-
-```
-
----
