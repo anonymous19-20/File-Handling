@@ -11,14 +11,14 @@ It helps beginners understand how to create, read, write, check, and delete file
 Each folder contains the same task written in all three languages:
 
 ```
-
+````
 File-Handling/
 ├── 1\_File\_Creation/          # Create a file and write text into it
 ├── 2\_File\_Reading/           # Read content from a file
 ├── 3\_File\_Appending/         # Add new text to the end of a file
 ├── 4\_File\_Existence\_Check/   # Check if a file exists or not
 ├── 5\_File\_Deletion/          # Delete a file
-
+````
 ````
 
 Inside every folder, you'll find:
